@@ -15,6 +15,3 @@ class Circle extends React.Component {
 }
 
 export default Circle;
-
-
-export default Circle;

@@ -38,3 +38,6 @@ class Survey extends React.Component {
 }
 
 export default Survey;
+
+
+export default Survey;
